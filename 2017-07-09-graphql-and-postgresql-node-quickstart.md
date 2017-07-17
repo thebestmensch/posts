@@ -4,7 +4,7 @@ title: "Node.js GraphQL & PostgreSQL Quickstart"
 date: 2017-07-09
 comments: true
 description: ""
-keywords: "graphql postgresql javascript node node.js"
+keywords: "graphql postgresql javascript node nodejs"
 categories:
 - tutorials
 tags:
@@ -12,8 +12,10 @@ tags:
 - postgresql
 - javascript
 - node
-- node.js
+- nodejs
 ---
+
+View the source code [here](https://github.com/JMensch/tutorials/tree/master/2017-07-09-graphql-and-postgresql-node-quickstart).
 
 GraphQL is an API query language that aims to replace REST. With GraphQL, you can
 combine data from multiple sources into one response and expose it as a single API endpoint. We'll explore one option in this below: querying data from PostgreSQL.
@@ -44,5 +46,3 @@ Last, spin up an express server hosting our new API:
 # Fin
 And that's it! You can now point your browser to localhost:3000/graphiql for a GUI representation.
 Don't forget to create your users table in Postgres!
-
-
