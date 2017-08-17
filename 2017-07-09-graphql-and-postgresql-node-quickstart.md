@@ -23,9 +23,10 @@ combine data from multiple sources into one response and expose it as a single A
 # Prerequisites
 From your terminal, install the necessary packages:
 
-```sh
+```bash
 npm i pg-promise graphql graphql-tools cors body-parser express graphql-server-express
 ```
+
 
 # PostgreSQL Connection
 First, we'll setup a PostgreSQL connection instance:
