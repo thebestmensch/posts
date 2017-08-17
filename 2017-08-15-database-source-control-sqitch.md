@@ -50,44 +50,7 @@ You'll see Sqitch generated a `users.sql` file in the `deploy`, `revert`, and `v
 
 Let's add appropriate code to the generated files:
 
-```sql
--- deploy/users.sql
--- Deploy myproject:users to pg
-
-BEGIN;
-
-CREATE TABLE users (
-  id INTEGER PRIMARY KEY,
-  first_name VARCHAR(45),
-  last_name VARCHAR(45),
-  created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
-  updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
-);
-
-COMMIT;
-```
-
-```sql
--- revert/users.sql
--- Revert myproject:users from pg
-
-BEGIN;
-
-DROP TABLE users;
-
-COMMIT;
-```
-
-```sql
--- verify/users.sql
--- Verify myproject:users on pg
-
-BEGIN;
-
-SELECT * FROM users LIMIT 0; -- will error if users does not exist
-
-ROLLBACK;
-```
+<script src="https://gist.github.com/JMensch/5991f17e0ae1b2a19ded949778cdea83.js"></script>
 
 # Database Changes
 
@@ -99,66 +62,14 @@ sqitch add users-email-col -n 'add users.email'
 
 Same as before, we have 3 `users-email-col.sql` files generated. Lets add the code:
 
-```sql
--- deploy/users-email-col.sql
--- Deploy myproject:users-email-col to pg
-
-BEGIN;
-
-ALTER TABLE users
-  ADD COLUMN email VARCHAR(100);
-
-COMMIT;
-```
-
-```sql
--- revert/users-email-col.sql
--- Revert myproject:users-email-col from pg
-
-BEGIN;
-
-ALTER TABLE users
-  DROP COLUMN users;
-
-COMMIT;
-```
-
-```sql
--- verify/users-email-col.sql
--- Verify myproject:users-email-col on pg
-
-BEGIN;
-
-SELECT email FROM users LIMIT 0;
-
-ROLLBACK;
-```
+<script src="https://gist.github.com/JMensch/69883250eac63d93ac958c78b274effc.js"></script>
 
 Sqitch runs changesets sequentually, so first the users table will be created (`users.sql`), then the email column will be added (`users-email-col.sql`).
 
 # Managing Environments in Sqitch
 Sqitch manages changes via a hash table in the target database, which means we need to point Sqitch to the correct database for dev, staging, and production environments so it can manage changes appropriately. We can do this with the `sqitch.config` file and the `target` property. Edit your config file to look like so:
 
-```conf
-[core]
-  engine = pg
-
-[engine "pg"]
-  client = psql
-
-[target "dev"]
-  uri = db:pg://postgres@localhost/postgres
-
-[target "staging"]
-  uri = db:pg://username@host:5432/dbname
-
-[target "production"]
-  uri = db:pg://username@host:5432/dbname
-
-[deploy]
-  verify = true
-
-```
+<script src="https://gist.github.com/JMensch/52355b52aa94a794d57bf3a9d5429231.js"></script>
 
 Now, you can deploy to the appropriate environments by specifying your target. For example:
 
