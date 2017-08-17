@@ -31,6 +31,7 @@ Debian:
 apt-get install sqitch && apt-get install libdbd-pg-perl postgresql-client
 ```
 
+<br>
 
 # Database Schema
 
@@ -57,6 +58,8 @@ Let's add appropriate code to the generated files:
 
 <script src="https://gist.github.com/JMensch/5991f17e0ae1b2a19ded949778cdea83.js"></script>
 
+<br>
+
 # Database Changes
 
 Let's add a sample change to our database. In /myproject/schema, run:
@@ -65,12 +68,13 @@ Let's add a sample change to our database. In /myproject/schema, run:
 sqitch add users-email-col -n 'add users.email'
 ```
 
-
 Same as before, we have 3 `users-email-col.sql` files generated. Lets add the code:
 
 <script src="https://gist.github.com/JMensch/69883250eac63d93ac958c78b274effc.js"></script>
 
 Sqitch runs changesets sequentually, so first the users table will be created (`users.sql`), then the email column will be added (`users-email-col.sql`).
+
+<br>
 
 # Managing Environments in Sqitch
 Sqitch manages changes via a hash table in the target database, which means we need to point Sqitch to the correct database for dev, staging, and production environments so it can manage changes appropriately. We can do this with the `sqitch.config` file and the `target` property. Edit your config file to look like so:
@@ -83,6 +87,7 @@ Now, you can deploy to the appropriate environments by specifying your target. F
 sqitch deploy -t dev
 ```
 
+<br>
 
 # Fin
 And that's it! Now you're managing every change to your database, and can deploy changes to multiple environments at different target locations.
