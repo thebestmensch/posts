@@ -15,7 +15,7 @@ tags:
 - nodejs
 ---
 
-View the source code [here](https://github.com/JMensch/tutorials/tree/master/2017-07-09-graphql-and-postgresql-node-quickstart).
+View the source code [here](https://github.com/JMensch/graphql-postgres-quickstart-demo)
 
 GraphQL is an API query language that aims to replace REST. With GraphQL, you can
 combine data from multiple sources into one response and expose it as a single API endpoint. We'll explore one option in this below: querying data from PostgreSQL.
