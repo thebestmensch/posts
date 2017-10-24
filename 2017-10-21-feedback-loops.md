@@ -12,11 +12,11 @@ tags:
 ---
 
 
-Building with feature scope minimality in mind is the bread and butter of startup success. You want to stay agile, pivot often without accruing too much technical debt, and verify your idea as early as possible. Getting the user involved in your product feedback loop process early will accelerate your idea towards product/market fit.
+Building with feature scope minimality in mind is the bread and butter of startup success. You want to stay agile, pivot often and without accruing too much technical debt, and verify your idea as early as possible. Getting the user involved in your product feedback loop process early will accelerate your idea towards product/market fit.
 
 
 # Get your ~~QA team~~ potential users involved early
-Early to Mid stage startups rarely have dedicated QA teams. Engineers are vigilant, but some bugs are going to make it to users. You should acknowledge that fact and incorporate users into your feedback loop process. Asking them things like "Why did you expect X to happen, when Y did instead?" or "How did you expect the app to respond after you did X?". At an early stage startup it is crucial for engineers to be able to think like a user. The quickest way to do that is to put them in front of users as early as possible.
+Early to Mid stage startups rarely have dedicated QA teams. Engineers are vigilant, but some bugs are going to make it to users. You should acknowledge that fact and incorporate users into your feedback loop process. Asking them things like "Why did you expect X to happen, when Y did instead?" or "How did you expect the app to respond after you did X?" are easy questions to get concrete feedback from your users and build investment. At an early stage startup it is crucial for engineers to be able to think like a user. The quickest way to do that is to put them in front of users as early as possible.
 
 If quantifiable metrics are your jam, here's some bonus points:
 
@@ -25,6 +25,6 @@ If quantifiable metrics are your jam, here's some bonus points:
 
 
 # More collaboration and inclusion = better product
-Increasing the number of feedback loops gives the team more opportunities to collaborate. A [diverse](https://hbr.org/2013/12/how-diversity-can-drive-innovation), [collaborative](http://www.ey.com/Publication/vwLUAssets/ey-is-collaboration-the-new-innovation/$FILE/ey-is-collaboration-the-new-innovation.pdf) environment drives innovation at any size or level of a company. Utilizing the power of diverse insights will lead to a more accessable product that is user-centric in its design.
+Increasing the number of feedback loops gives the team more opportunities to collaborate. A [diverse](https://hbr.org/2013/12/how-diversity-can-drive-innovation), [collaborative](http://www.ey.com/Publication/vwLUAssets/ey-is-collaboration-the-new-innovation/$FILE/ey-is-collaboration-the-new-innovation.pdf) environment drives innovation at any size or level of a company. Utilizing the power of diverse insights will lead to a more accessible product that is user-centric in its design.
 
-Finally, investment and a feeling ownership of a product is important to create quality output. Getting a particular user involved in product iteration from the beginning gives that user a sense of investment. The same goes for team members and stakeholders. No one ones to feel like a cog in the wheel.
+Finally, investment and feeling of ownership of a product is important to create quality output. Getting a particular user involved in product iteration from the beginning gives that user a sense of investment. The same goes for team members and stakeholders. No one likes to feel like a cog in the wheel.
