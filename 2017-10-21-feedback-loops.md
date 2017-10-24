@@ -12,7 +12,12 @@ tags:
 ---
 
 # MVP Everything
-Building with scope minimality in mind has a few obvious benefits. Product market fit will happen faster as you are gathering feedback more often. Keeping your feature bloat low will lead to a simple product and give your "killer feature" room to shine. Bug rate will decrease because you are putting the product in the hands of users quicker and more often. (bugs are inevitable, but keeping them as squashed as possible is a win for everyone).
+Building with scope minimality in mind is the bread and butter of working at a startup. Spending months creating a complete product without showing anything to your potential users is bad. You want to aim to verify your idea as early as possible. You'll find product/market fit faster if you get something in front of your users as often as possible.
+
+After switching to this approach, you will notice a few happy side effects:
+
+- Your low feature bloat will lead to a simple product and give your "killer feature" room to shine.
+- Your robust features and early users (read: QA Team) will decrease overall bug rate.
 
 
 # Smaller Milestones, Better Estimation
