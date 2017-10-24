@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stop being a perfectionist- increasing feedback loops to deliver a better product, faster."
+title: "Using user-centric feedback loops to deliver a better product, faster."
 date: 2017-10-20
 comments: true
 description: ""
@@ -11,25 +11,20 @@ tags:
 - project-management
 ---
 
-# MVP Everything
-Building with scope minimality in mind is the bread and butter of working at a startup. Spending months creating a complete product without showing anything to your potential users is bad. You want to aim to verify your idea as early as possible. You'll find product/market fit faster if you get something in front of your users as often as possible.
 
-After switching to this approach, you will notice a few happy side effects:
-
-- Your low feature bloat will lead to a simple product and give your "killer feature" room to shine.
-- Your robust features and early users (read: QA Team) will decrease overall bug rate.
+Building with feature scope minimality in mind is the bread and butter of startup success. You want to stay agile, pivot often without accruing too much technical debt, and verify your idea as early as possible. Getting the user involved in your product feedback loop process early will accelerate your idea towards product/market fit.
 
 
-# Smaller Milestones, Better Estimation
-It is a fact that large milestones are difficult to estimate, and estimation is a near-impossible skill to master. Missing targets and deadlines is bad for company morale and bad for optics.
-If we are now thinking of each feature or task as its own MVP, then why not milestones?
+# Get your ~~QA team~~ potential users involved early
+Early to Mid stage startups rarely have dedicated QA teams. Engineers are vigilant, but some bugs are going to make it to users. You should acknowledge that fact and incorporate users into your feedback loop process. Asking them things like "Why did you expect X to happen, when Y did instead?" or "How did you expect the app to respond after you did X?". At an early stage startup it is crucial for engineers to be able to think like a user. The quickest way to do that is to put them in front of users as early as possible.
 
-Breaking milestone into minimal shippable units would increase chance of success and decrease headache. Hitting milestones and shipping features is an important team chemistry ingredient. Good team chemisty increases product quality, employee moral, and team velocity.
+If quantifiable metrics are your jam, here's some bonus points:
 
-Last but not least, nailing your milestones looks great for stakeholders and investors!
+- Now that you can verify which features users really want (by _watching_ them use your product), your low feature bloat will lead to a simple product and give your "killer feature" room to shine.
+- Now that you embrace that bugs will reach your users and reach out to get them involved, your robust and refined features and early users (read: QA Team) will decrease overall bug rate.
 
 
-# More collaboration and Inclusion = Better Product
+# More collaboration and inclusion = better product
 Increasing the number of feedback loops gives the team more opportunities to collaborate. A [diverse](https://hbr.org/2013/12/how-diversity-can-drive-innovation), [collaborative](http://www.ey.com/Publication/vwLUAssets/ey-is-collaboration-the-new-innovation/$FILE/ey-is-collaboration-the-new-innovation.pdf) environment drives innovation at any size or level of a company. Utilizing the power of diverse insights will lead to a more accessable product that is user-centric in its design.
 
 Finally, investment and a feeling ownership of a product is important to create quality output. Getting a particular user involved in product iteration from the beginning gives that user a sense of investment. The same goes for team members and stakeholders. No one ones to feel like a cog in the wheel.
