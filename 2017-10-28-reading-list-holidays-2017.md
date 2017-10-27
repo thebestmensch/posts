@@ -59,6 +59,7 @@ One of the most interesting comics I've read in awhile, both artistically and co
 
 A woman bounty hunter, that works for, betrays, and is then hunted by Darth Vader. I'm in.
 
+<br/>
 
 ## Fin
 
