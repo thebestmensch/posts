@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using user-centric feedback loops to deliver a better product, faster."
+title: "Using User-centric Feedback Loops to Deliver a Better Product, Faster."
 date: 2017-10-20
 comments: true
 description: ""
