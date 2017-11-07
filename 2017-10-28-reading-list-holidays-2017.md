@@ -3,7 +3,7 @@ layout: post
 title: "My holidays 2017 Reading List"
 date: 2017-10-27
 comments: true
-description: ""
+description: "Holdays 2017 reading list."
 keywords: "reading list self improvement books"
 categories:
 - thoughts

@@ -3,7 +3,7 @@ layout: post
 title: "Using User-centric Feedback Loops to Deliver a Better Product, Faster."
 date: 2017-10-20
 comments: true
-description: ""
+description: "Use user-centric feedback loops to deliver your product faster."
 keywords: "project management"
 categories:
 - thoughts
