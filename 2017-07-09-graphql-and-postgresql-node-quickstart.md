@@ -3,7 +3,7 @@ layout: post
 title: "Node.js GraphQL & PostgreSQL Quickstart"
 date: 2017-07-09
 comments: true
-description: ""
+description: "GraphQL and Node.js server quickstart."
 keywords: "graphql postgresql javascript node nodejs"
 categories:
 - tutorials

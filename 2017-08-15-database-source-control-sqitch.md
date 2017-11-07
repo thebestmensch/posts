@@ -3,7 +3,7 @@ layout: post
 title: "Database source control, versioning, and environment management with Sqitch"
 date: 2017-08-15
 comments: true
-description: ""
+description: "Database source control and versioning with Sqitch."
 keywords: "database postgresql sqitch docker"
 categories:
 - tutorials
