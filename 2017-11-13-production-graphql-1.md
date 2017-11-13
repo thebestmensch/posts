@@ -21,7 +21,7 @@ tags:
 
 The first headache you'll encounter with the Apollo GraphQL stack is that errors returned to the client are in string format. An example:
 
-[](https://gist.githubusercontent.com/JMensch/2ea1eec9a3011d7f343f4271eab9e67c/raw/6fe76b3daaadef643eefb6f84189ca4d94bb5624/apollo-error.png)
+![apollo-errors example error](https://gist.githubusercontent.com/JMensch/2ea1eec9a3011d7f343f4271eab9e67c/raw/6fe76b3daaadef643eefb6f84189ca4d94bb5624/apollo-error.png)
 
 Pretty tough to do anything with that, right? Luckily [thebigredgeek's](https://github.com/thebigredgeek) [apollo-errors package](https://github.com/thebigredgeek/apollo-errors) is here to save us! All you have to do is plug it into your schema (a 1 line change), and now your errors looks like this:
 
@@ -49,7 +49,7 @@ Magic!
 
 The beauty of nested GraphQL queries can also be its downfall if your resolvers aren't structured correctly. Luckily we can use [Apollo Engine](https://engine.apollographql.com/) to monitor each resolver for usage and quickly debug those long running queries. Check it out:
 
-[](https://gist.githubusercontent.com/JMensch/2ea1eec9a3011d7f343f4271eab9e67c/raw/e96d538db469435b46ffa454969b87b595248c8d/apollo-engine.png)
+![apollo engine metrics](https://gist.githubusercontent.com/JMensch/2ea1eec9a3011d7f343f4271eab9e67c/raw/e96d538db469435b46ffa454969b87b595248c8d/apollo-engine.png)
 
 Apollo Engine can do so much more, including caching and error tracking- all for free. Read this great post by [Rohit Bakhshi](https://dev-blog.apollodata.com/introducing-apollo-engine-insights-error-reporting-and-caching-for-graphql-6a55147f63fc) to learn more.
 
