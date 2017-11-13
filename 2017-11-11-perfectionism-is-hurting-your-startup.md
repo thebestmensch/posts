@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Your Perfectionism is Hurting your Startup"
+title: "Perfectionism is Hurting your Startup"
 date: 2017-11-05
 comments: true
-description: "Perfectionism is the antithesis of SOMETHING>?>?<<><>"
+description: "Perfectionism is the antithesis of velocity in a company and alludes to a prideful person lacking humility. None of these things are ingredients for a successful startup."
 keywords: "perfectionism startups product management"
 categories:
 - thoughts
