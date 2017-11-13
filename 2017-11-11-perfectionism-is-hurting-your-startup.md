@@ -42,6 +42,8 @@ Investors probably don't want you calling them weekly asking if they've created 
 
 <br/>
 
+## Final Thoughts
+
 The common theme here is humility. Corporations turn coworkesr into competitors, but in a startup it is the opposite. You need to trust that your teammates, users, and investors all have valuable opinions and perspectives. If you don't, it won't be long until you end up back in middle management.
 
 <br/>
