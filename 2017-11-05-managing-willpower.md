@@ -58,6 +58,16 @@ We've spent the time to make our time working uber-efficient, but don't forget h
 
 I'd love to hear your productivity hacks! Leave a comment or reach out!
 
+<br/>
+
+<i>If you enjoyed this article, please help out with a like, a share, or a comment. It fuels my focus to write more of it, thanks!</i>
+
+<br/>
+
+James Mensch is the Tech / Product Lead at <a href='https://www.thewedclique.com'>The Wed Clique</a> and the CEO at <a href='http://magnifai.io'>Magnifai</a>. I believe in building intelligent products, using data to drive decisions, and engineering for social impact. I <a href='https://medium.com/@james_mensch'>write</a> about some of the cool stuff I do with tech, productivity and motivation psychology, and my social innovation projects. Connect with me on <a href='https://www.linkedin.com/in/james-mensch/'>LinkedIn</a> or say hi on <a href='https://twitter.com/thebestmensch'>Twitter</a>.
+
+
+
 
 Credits:
 https://en.wikipedia.org/wiki/Ego_depletion

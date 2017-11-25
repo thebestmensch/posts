@@ -61,6 +61,9 @@ A woman bounty hunter, that works for, betrays, and is then hunted by Darth Vade
 
 <br/>
 
-## Fin
+<i>If you enjoyed this article, please help out with a like, a share, or a comment. It fuels my focus to write more of it, thanks!</i>
 
-Did I miss anything? Leave a comment!
+<br/>
+
+James Mensch is the Tech / Product Lead at <a href='https://www.thewedclique.com'>The Wed Clique</a> and the CEO at <a href='http://magnifai.io'>Magnifai</a>. I believe in building intelligent products, using data to drive decisions, and engineering for social impact. I <a href='https://medium.com/@james_mensch'>write</a> about some of the cool stuff I do with tech, productivity and motivation psychology, and my social innovation projects. Connect with me on <a href='https://www.linkedin.com/in/james-mensch/'>LinkedIn</a> or say hi on <a href='https://twitter.com/thebestmensch'>Twitter</a>.
+

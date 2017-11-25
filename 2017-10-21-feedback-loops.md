@@ -31,3 +31,12 @@ If quantifiable metrics are your jam, here's some bonus points:
 Increasing the number of feedback loops gives the team more opportunities to collaborate. A [diverse](https://hbr.org/2013/12/how-diversity-can-drive-innovation), [collaborative](http://www.ey.com/Publication/vwLUAssets/ey-is-collaboration-the-new-innovation/$FILE/ey-is-collaboration-the-new-innovation.pdf) environment drives innovation at any size or level of a company. Utilizing the power of diverse insights will lead to a more accessible product that is user-centric in its design.
 
 Finally, investment and feeling of ownership of a product is important to create quality output. Getting a particular user involved in product iteration from the beginning gives that user a sense of investment. The same goes for team members and stakeholders. No one likes to feel like a cog in the wheel.
+
+<br/>
+
+<i>If you enjoyed this article, please help out with a like, a share, or a comment. It fuels my focus to write more of it, thanks!</i>
+
+<br/>
+
+James Mensch is the Tech / Product Lead at <a href='https://www.thewedclique.com'>The Wed Clique</a> and the CEO at <a href='http://magnifai.io'>Magnifai</a>. I believe in building intelligent products, using data to drive decisions, and engineering for social impact. I <a href='https://medium.com/@james_mensch'>write</a> about some of the cool stuff I do with tech, productivity and motivation psychology, and my social innovation projects. Connect with me on <a href='https://www.linkedin.com/in/james-mensch/'>LinkedIn</a> or say hi on <a href='https://twitter.com/thebestmensch'>Twitter</a>.
+
