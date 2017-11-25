@@ -12,7 +12,7 @@ tags:
 - management
 ---
 
-Regardless of management style or company size, the daily standup has become ubiquitous as an essential tool for every self-organizing team. I’ve both participated in and led standups for engineering teams and cross business units, and formed my own opinion on what makes the most effective standup, which I’ve detailed below for your pleasureful consumption. Every team needs has different needs, so mileage may very.
+Regardless of management style or company size, the daily standup has become ubiquitous as an essential tool for every self-organizing team. I’ve both participated in and led standups for engineering teams and cross business units, and formed my own opinion on what makes the most effective standup, which I’ve detailed below for your pleasureful consumption. Every team has different needs, so mileage may vary.
 
 <br/>
 
