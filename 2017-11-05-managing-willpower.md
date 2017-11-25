@@ -54,9 +54,13 @@ We've spent the time to make our time working uber-efficient, but don't forget h
 
 <br/>
 
-## Fin
+## Conclusion
 
 I'd love to hear your productivity hacks! Leave a comment or reach out!
+
+<br/>
+
+---
 
 <br/>
 
