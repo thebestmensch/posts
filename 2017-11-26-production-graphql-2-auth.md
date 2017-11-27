@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Production Apollo GraphQL - Essential Setup and Tooling"
-date: 2017-11-13
+title: "Production Apollo GraphQL - Authentication & Authorization"
+date: 2017-11-26
 comments: true
-description: ""
+description: "Production Apollo GraphQL Series part 2: How to authenticate and authorize users"
 keywords: "graphql nodejs node javascript server production apollo"
 categories:
 - tutorials

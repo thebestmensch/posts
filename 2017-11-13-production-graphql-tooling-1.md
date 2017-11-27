@@ -3,7 +3,7 @@ layout: post
 title: "Production Apollo GraphQL - Essential Setup and Tooling"
 date: 2017-11-13
 comments: true
-description: ""
+description: "Production Apollo GraphQL Series part 1: Essential tools you'll need to get up and running in production."
 keywords: "graphql nodejs node javascript server production apollo"
 categories:
 - tutorials
