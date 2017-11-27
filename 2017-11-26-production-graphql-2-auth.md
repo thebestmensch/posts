@@ -15,10 +15,11 @@ tags:
 - nodejs
 ---
 
-<i>NOTE: This example will be using Apollo-Client 1.x and Apollo-Server-Express 1.2.0.
+<i>NOTE: This example will be using Apollo-Client 1.x and Apollo-Server-Express 1.2.0.</i>
 
-This is part two of my Production GraphQL series. Check out part 1, "Essential Setup and Tooling", <a href='https://blog.cloudboost.io/production-apollo-graphql-essential-setup-and-tooling-4447ac01f94e'>here</a>.
-</i>
+<i>
+This is part two of my Production GraphQL series. Check out part 1, "Essential Setup and Tooling",</i> <a href='https://blog.cloudboost.io/production-apollo-graphql-essential-setup-and-tooling-4447ac01f94e'>here</a>.
+
 
 <br/>
 
