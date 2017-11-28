@@ -15,20 +15,19 @@ tags:
 - nodejs
 ---
 
-<i>NOTE: This example will be using Apollo-Client 1.x and Apollo-Server-Express 1.2.0.</i>
+*NOTE: This example will be using Apollo-Client 1.x and Apollo-Server-Express 1.2.0.*
 
-<i>
-This is part two of my Production GraphQL series. Check out part 1, "Essential Setup and Tooling",</i> <a href='https://blog.cloudboost.io/production-apollo-graphql-essential-setup-and-tooling-4447ac01f94e'>here</a>.
+*This is part two of my Production GraphQL series. Check out part 1, "Essential Setup and Tooling",* <a href='https://blog.cloudboost.io/production-apollo-graphql-essential-setup-and-tooling-4447ac01f94e'>here</a>.
 
 
 <br/>
 
-Each field provided by a GraphQL Schema corresponds to a resolver that produces the correct field. This gives us unparalleled control over our API by allowing us to govern access by _field_ rather than HTTP endpoint. Let's dive into how we do that below.
+Each field provided by a GraphQL Schema corresponds to a resolver that produces the correct field. This gives us unparalleled control over our API, allowing us to govern access by _field_ rather than HTTP endpoint. Let's dive into how we do that below.
 
 <br/>
 
 ## Authentication
-I prefer using JSON Web Tokens for authenticating users. It's reusable across all platforms and doubles as an information exchange. Read more about it <a href='https://jwt.io/introduction/'>here</a>.
+I prefer JSON Web Tokens for authentication. They're reusable across all platforms and double as an information exchange. Read more about it <a href='https://jwt.io/introduction/'>here</a>.
 
 To use JWT, you need to send it in the Authorization header in each HTTP request, and decrypt it with a secret on the server. Check out this basic example:
 
@@ -37,6 +36,7 @@ To use JWT, you need to send it in the Authorization header in each HTTP request
 That's it! When a user with a bad JWT sends a request, your server will return a `401 Unauthorized` error.
 
 <br/>
+
 ## Authorization
 GraphQL allows us to define each object's resolvers, which means we can define who has access to certain objects and object fields. First, let's update our server to pass the user context to each resolver. Update our previous code to look like this:
 
@@ -54,7 +54,7 @@ Now you can perform authorization at the object level, or govern access to indiv
 
 <br/>
 
-<i>If you enjoyed this article, please help out with a like, a share, or a comment. It fuels my focus to write more of it, thanks!</i>
+*If you enjoyed this article, please help out with a like, a share, or a comment. It fuels my focus to write more of it, thanks!*
 
 <br/>
 

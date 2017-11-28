@@ -73,7 +73,7 @@ At the end of the day, the goal of a good standup is to generate collective moti
 
 <br/>
 
-<i>If you enjoyed this article, please help out with a like, a share, or a comment. It fuels my focus to write more of it, thanks!</i>
+*If you enjoyed this article, please help out with a like, a share, or a comment. It fuels my focus to write more of it, thanks!*
 
 <br/>
 

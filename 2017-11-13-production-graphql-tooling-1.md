@@ -59,7 +59,7 @@ And thats it!
 
 <br/>
 
-<i>If you enjoyed this article, please help out with a like, a share, or a comment. It fuels my focus to write more of it, thanks!</i>
+*If you enjoyed this article, please help out with a like, a share, or a comment. It fuels my focus to write more of it, thanks!*
 
 <br/>
 
