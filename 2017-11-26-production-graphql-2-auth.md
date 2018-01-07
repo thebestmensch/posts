@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Production Apollo GraphQL - Authentication & Authorization"
 date: 2017-11-26
 comments: true

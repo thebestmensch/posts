@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Managing Willpower and Staying Productive"
 date: 2017-11-05
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Node.js GraphQL & PostgreSQL Quickstart"
 date: 2017-07-09
 comments: true

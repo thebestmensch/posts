@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Database source control, versioning, and environment management with Sqitch"
 date: 2017-08-15
 comments: true

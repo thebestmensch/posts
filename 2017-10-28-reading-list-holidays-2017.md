@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "My holidays 2017 Reading List"
 date: 2017-10-27
 comments: true

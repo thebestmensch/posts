@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Production Apollo GraphQL - Essential Setup and Tooling"
 date: 2017-11-13
 comments: true
