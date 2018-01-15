@@ -49,15 +49,15 @@ Last, spin up an express server hosting our new API:
 And that's it! You can now point your browser to localhost:3000/graphiql for a GUI representation.
 Don't forget to create your users table in Postgres!
 
-<br/>
+
 
 ---
 
-<br/>
+
 
 *If you enjoyed this article, please help out with a like, a share, or a comment. It fuels my focus to write more of it, thanks!*
 
-<br/>
+
 
 James Mensch is the Director of Engineering at <a href='https://threatcare.com'>Threatcare</a> and the CEO at <a href='http://magnifai.io'>Magnifai</a>. I believe in building intelligent products, using data to drive decisions, and engineering for social impact. I <a href='https://medium.com/@james_mensch'>write</a> about some of the cool stuff I do with tech, productivity and motivation psychology, and my social innovation projects. Connect with me on <a href='https://www.linkedin.com/in/james-mensch/'>LinkedIn</a> or say hi on <a href='https://twitter.com/thebestmensch'>Twitter</a>.
 

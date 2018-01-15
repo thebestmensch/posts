@@ -15,7 +15,7 @@ My immediate post-college self chose what I read with the mentality "if this doe
 
 Anyways, the holidays are almost here and I'm excited to get to these books!
 
-<br/>
+
 
 
 ## Recreational
@@ -29,7 +29,7 @@ After watching The Flash on CW since inception, I really need some time travel t
 
 - TBD! Recommend me something :)
 
-<br/>
+
 
 ## To Level-up
 - [Astrophysics for People in a Hurry](https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson/dp/0393609391/ref=sr_1_1?s=books&ie=UTF8&qid=1509136813&sr=1-1&keywords=Astrophysics+for+People+in+a+Hurry) - Neil deGrasse Tyson
@@ -44,7 +44,7 @@ A book I'm particularly excited about, given my interest in mindfulness and medi
 
 One I'm embarrassed to say I haven't heard of until recently. Empathizing with and understanding the perspective of people that don't look like you is difficult. I'm expecting _Between the World and Me_ to teach me a significant amount.
 
-<br/>
+
 
 ## Comics
 - [7 to Eternity](https://www.amazon.com/Seven-Eternity-01-Rick-Remender/dp/1534300619/ref=sr_1_2?s=books&ie=UTF8&qid=1509136870&sr=1-2&keywords=7+to+eternity) - Rick Remender
@@ -59,15 +59,15 @@ One of the most interesting comics I've read in awhile, both artistically and co
 
 A woman bounty hunter, that works for, betrays, and is then hunted by Darth Vader. I'm in.
 
-<br/>
+
 
 ---
 
-<br/>
+
 
 *If you enjoyed this article, please help out with a like, a share, or a comment. It fuels my focus to write more of it, thanks!*
 
-<br/>
+
 
 James Mensch is the Director of Engineering at <a href='https://threatcare.com'>Threatcare</a> and the CEO at <a href='http://magnifai.io'>Magnifai</a>. I believe in building intelligent products, using data to drive decisions, and engineering for social impact. I <a href='https://medium.com/@james_mensch'>write</a> about some of the cool stuff I do with tech, productivity and motivation psychology, and my social innovation projects. Connect with me on <a href='https://www.linkedin.com/in/james-mensch/'>LinkedIn</a> or say hi on <a href='https://twitter.com/thebestmensch'>Twitter</a>.
 

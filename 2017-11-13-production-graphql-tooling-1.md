@@ -29,7 +29,7 @@ Pretty tough to do anything with that, right? Luckily [thebigredgeek's](https://
 
 Magic!
 
-<br/>
+
 
 ## Performance Insight with Apollo Engine
 
@@ -39,7 +39,7 @@ The beauty of nested GraphQL queries can also be its downfall if your resolvers 
 
 Apollo Engine can do so much more, including caching and error tracking- all for free. Read this great post by [Rohit Bakhshi](https://dev-blog.apollodata.com/introducing-apollo-engine-insights-error-reporting-and-caching-for-graphql-6a55147f63fc) of the Meteor team to learn more.
 
-<br/>
+
 
 ## Query Context
 
@@ -53,15 +53,15 @@ If you're using something like JWT for middleware, you can attach the context to
 
 And thats it!
 
-<br/>
+
 
 ---
 
-<br/>
+
 
 *If you enjoyed this article, please help out with a like, a share, or a comment. It fuels my focus to write more of it, thanks!*
 
-<br/>
+
 
 James Mensch is the Director of Engineering at <a href='https://threatcare.com'>Threatcare</a> and the CEO at <a href='http://magnifai.io'>Magnifai</a>. I believe in building intelligent products, using data to drive decisions, and engineering for social impact. I <a href='https://medium.com/@james_mensch'>write</a> about some of the cool stuff I do with tech, productivity and motivation psychology, and my social innovation projects. Connect with me on <a href='https://www.linkedin.com/in/james-mensch/'>LinkedIn</a> or say hi on <a href='https://twitter.com/thebestmensch'>Twitter</a>.
 
