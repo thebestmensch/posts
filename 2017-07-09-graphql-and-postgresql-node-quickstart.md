@@ -59,5 +59,5 @@ Don't forget to create your users table in Postgres!
 
 <br/>
 
-James Mensch is the Tech / Product Lead at <a href='https://www.thewedclique.com'>The Wed Clique</a> and the CEO at <a href='http://magnifai.io'>Magnifai</a>. I believe in building intelligent products, using data to drive decisions, and engineering for social impact. I <a href='https://medium.com/@james_mensch'>write</a> about some of the cool stuff I do with tech, productivity and motivation psychology, and my social innovation projects. Connect with me on <a href='https://www.linkedin.com/in/james-mensch/'>LinkedIn</a> or say hi on <a href='https://twitter.com/thebestmensch'>Twitter</a>.
+James Mensch is the Director of Engineering at <a href='https://threatcare.com'>Threatcare</a> and the CEO at <a href='http://magnifai.io'>Magnifai</a>. I believe in building intelligent products, using data to drive decisions, and engineering for social impact. I <a href='https://medium.com/@james_mensch'>write</a> about some of the cool stuff I do with tech, productivity and motivation psychology, and my social innovation projects. Connect with me on <a href='https://www.linkedin.com/in/james-mensch/'>LinkedIn</a> or say hi on <a href='https://twitter.com/thebestmensch'>Twitter</a>.
 
